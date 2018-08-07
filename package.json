@@ -1,7 +1,7 @@
 {
   "title": "AngularJS-ovD3",
   "name": "angular-ovd3",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "An AngularJS directive for NVD3.js reusable charting library with gague",
   "homepage": "http://github.com/olapvision/angular-ovd3",
   "repository": {
